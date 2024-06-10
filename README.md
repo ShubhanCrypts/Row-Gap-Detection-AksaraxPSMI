@@ -1,6 +1,9 @@
 # Row-Gap-Detection-AksaraxPSMI
 Repository yang digunakan untuk dokumentasi file - file project deteksi Row/Gap lahan tebu PSMI
 
+Dataset yang digunakan:
+https://drive.google.com/drive/folders/1HEMjCvoSbb_4W-gsSVeuRGVPmedCw6Rv?usp=sharing
+
 Yang sudah dilakukan:
 - Basic image processing -> grayscale, canny edge, hough transform
 - YOLOv8 Based -> default from ultralytics
